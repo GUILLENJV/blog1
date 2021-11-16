@@ -1,2 +1,2 @@
-# blog1
-Creando mi primer blog en repositorio git hub
+# hyperblog
+Creando nuevamente un nuevo blog
